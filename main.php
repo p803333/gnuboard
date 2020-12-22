@@ -8,7 +8,7 @@
     $ID = 'admin' /*아이디*/
     $PW = '12345' /*비번*/
     $title = 'hihi'; /*제목*/
-    $contents = 'it's work' /*내용*/
+    $contents = 'its work' /*내용*/
 
     
     
